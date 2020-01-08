@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-######This is a Tic Tac Toe game built in java using the MVC (Model-View-Controller) pattern.
+###### This is a Tic Tac Toe game built in java using the MVC (Model-View-Controller) pattern.
 
 Game Instructions:
 
