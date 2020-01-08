@@ -14,6 +14,7 @@ Game Instructions:
 
 
 Implementation Notes:
+
 	1. If the player enters coordinates of a box which is already filled or is not on the board, the game outputs an error and he/she can try again.
 	2. The player can't exit in the middle of a game.
 	3. The player should only enter numbers for the rows and columns (no characters), otherwise the game will crash.
